@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe (HP) V3</string>
+    <string name="menuTitle">Menu:</string>
+    <string name="singlePlayerButton">Single Player Game</string>
+    <string name="twoPlayerButton">Two Player Game</string>
+    <string name="settingsButton">Settings</string>
+    <string name="player_1_0">Player 1: 0</string>
+    <string name="player_2_0">Player 2: 0</string>
+    <string name="new_game">New Game</string>
+    <string name="reset">Reset</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="current_sBoard">Current Local Board:</string>
+    <string name="current_player">Current Player is :</string>
+    <string name="hiddenGame">Drinking Game</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="seconds_remaining_30">Seconds Remaining: 30</string>
+    <string name="todo7">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+
+</resources>
